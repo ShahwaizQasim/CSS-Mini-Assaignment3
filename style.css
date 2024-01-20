@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Rubik+Burned&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+
+body{
+    background-color: #ccc;
+}
+a{
+   font-family: 'Bebas Neue', sans-serif;
+   text-align: center;
+   display: block;
+}
+h4{
+    font-family: 'Rubik Burned', system-ui;
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+}
+h5{
+    font-family: 'Grap Nuts';
+}
+h2{
+    font-family: 'Work Sans', sans-serif;
+}
